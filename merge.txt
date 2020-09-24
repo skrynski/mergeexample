@@ -1,4 +1,4 @@
-TEXT1 = 0
+TEXT1 = Y
 a
 b
 c
