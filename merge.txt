@@ -2,4 +2,4 @@ TEXT1 = 0
 a
 b
 c
-TEXT2 = 0
+TEXT2 = C
